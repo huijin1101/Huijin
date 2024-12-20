@@ -13,7 +13,7 @@ I'm **Huijin**, a **Data Scientist** passionate about **Data Analysis, Machine L
 - Hadoop, Spark, Hive  
 
 #### **Machine Learning & AI**
-- scikit-learn, TensorFlow, XGBoost  
+- scikit-learn, TensorFlow, XGBoost, Prophet  
 
 #### **Cloud Platforms**
 - AWS (S3, EC2, EMR, SageMaker), Databricks  
