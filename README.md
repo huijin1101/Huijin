@@ -21,7 +21,7 @@ I'm **Huijin**, a **Data Scientist** passionate about **Data Analysis, Machine L
 ---
 
 ### 🚀 Featured Projects:
-#### **[Build Route Optimization Model for Fleet Management](https://github.com/huijin1101/Build-Route-Optimization-Model-for-Fleet-Management)**  
+#### **[Build Route Optimization Model for Fleet Management](https://github.com/huijin1101/Route-Optimization-Model)**  
 Developed a **route optimization model** to select the fastest route for a given pair of start and end nodes, based on real-time traffic data prediction.  
 
 #### **[Prudential Life Insurance Assessment](https://github.com/huijin1101/Prudential-Life-Insurance-Assessment)**  
